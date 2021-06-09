@@ -1,0 +1,1 @@
+This is a script for showing path of a file
