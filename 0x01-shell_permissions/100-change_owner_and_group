@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name hello | xargs -0 chown betty:holberton
+chown betty:holberton hello
