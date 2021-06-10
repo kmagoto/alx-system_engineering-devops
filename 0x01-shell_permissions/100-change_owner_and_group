@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R betty:holberton hello .[^.]*
+find . -type f -name hello -print0 | xargs -0 chown betty:holberton
