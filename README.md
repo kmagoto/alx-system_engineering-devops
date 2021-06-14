@@ -1,1 +1,1 @@
-First script in this repository
+Making scripts
