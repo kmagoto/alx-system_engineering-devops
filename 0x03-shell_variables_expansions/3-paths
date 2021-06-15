@@ -1,2 +1,2 @@
 #!/bin/bash
-echo */root | wc
+echo $PATH | tr -s ":" "\n" | wc -l
