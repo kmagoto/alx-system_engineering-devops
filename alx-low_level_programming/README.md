@@ -1,1 +1,0 @@
-Starting to use C as a low level language
